@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:SystemUser"
+    jcr:uuid="8a101803-1d2a-3c8e-8849-41062a0ba97a"
+    rep:authorizableId="rfsystemuser"
+    rep:principalName="rfsystemuser"/>

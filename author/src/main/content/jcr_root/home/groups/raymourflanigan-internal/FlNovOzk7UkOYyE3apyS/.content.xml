@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2017-08-27T16:31:24.952-04:00"
+    cq:lastModifiedBy="dhill"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="b33d898a-f1cf-38b7-b915-e71cdb526404"
+    rep:authorizableId="rf-workflow-approver"
+    rep:members="{WeakReference}[bbfb7962-c453-302d-b441-2bac03aee3be,92ea6715-9694-397c-8fe5-84dc36725ffd,66c54b8d-b08e-3545-acb5-dbdc7387cf44,3dc35beb-a626-3b39-a713-b8375d41806d,17417f75-a688-344e-89fc-05c41d8bb82f,e19e6081-0ae4-398b-9ee1-af222dbc68f0]"
+    rep:principalName="rf-workflow-approver">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        givenName="Raymour Workflow Approver"/>
+</jcr:root>

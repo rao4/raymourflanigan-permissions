@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2017-08-24T09:31:15.672-04:00"
+    cq:lastModifiedBy="smali"
+    jcr:lastModified="{Date}2017-04-26T13:25:45.388-04:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="5174e3cc-593f-3948-b412-1ebf877b2626"
+    rep:authorizableId="rf-developers"
+    rep:members="{WeakReference}[e19e6081-0ae4-398b-9ee1-af222dbc68f0,7c49b4ff-f0e1-39df-bf06-271bb107bce0,f2484590-4484-3ace-900c-bd8af6a78efc,cca97cdc-499b-39a6-8101-340d788e41d4]"
+    rep:principalName="rf-developers">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        givenName="Raymour Developers"/>
+</jcr:root>

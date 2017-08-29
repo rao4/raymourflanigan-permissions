@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+
+	<filter root="/content/dam/RaymourandFlanigan/rep:policy"/>
+	<filter root="/content/raymour-flanigan/rep:policy"/>
+
+	<filter root="/etc/tags/rep:policy"/>
+	<filter root="/etc/workflow/rep:policy"/>
+
+	<filter root="/home/groups/c/contributor"/>
+    <filter root="/home/groups/raymourflanigan-internal"/>
+
+	<filter root="/home/users/system/raymourflanigan-system"/>
+
+</workspaceFilter>

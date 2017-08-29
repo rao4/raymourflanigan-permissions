@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+
+	<!--
+	Note: Uncomment when you add raymourflanigan specific users and/ groups in this project.
+		  As of now we do not have need, maybe in future we might need a group or user which needs to be present on Publish instance only
+		  
+    <filter root="/home/groups/raymourflanigan-system"/>
+    
+  	<filter root="/home/users/system/raymourflanigan-system"/>
+  -->
+
+</workspaceFilter>
