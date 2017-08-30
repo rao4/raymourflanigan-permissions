@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
-    cq:lastModified="{Date}2017-08-24T09:26:37.467-04:00"
-    cq:lastModifiedBy="smali"
+    cq:lastModified="{Date}2017-08-30T16:06:21.318-04:00"
+    cq:lastModifiedBy="admin"
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="rep:Group"
     jcr:uuid="934ffc21-6972-3701-970f-d5d3bfa4af0c"
     rep:authorizableId="rf-dam"
-    rep:members="{WeakReference}[bbfb7962-c453-302d-b441-2bac03aee3be,92ea6715-9694-397c-8fe5-84dc36725ffd,66c54b8d-b08e-3545-acb5-dbdc7387cf44,3dc35beb-a626-3b39-a713-b8375d41806d,17417f75-a688-344e-89fc-05c41d8bb82f,f447afb1-25f1-37e9-9230-0f461d972d1e]"
+    rep:members="{WeakReference}[66c54b8d-b08e-3545-acb5-dbdc7387cf44,bbfb7962-c453-302d-b441-2bac03aee3be,92ea6715-9694-397c-8fe5-84dc36725ffd,17417f75-a688-344e-89fc-05c41d8bb82f,3dc35beb-a626-3b39-a713-b8375d41806d]"
     rep:principalName="rf-dam">
     <profile
         jcr:primaryType="nt:unstructured"

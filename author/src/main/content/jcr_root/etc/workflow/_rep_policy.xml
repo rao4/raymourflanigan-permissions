@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:crx="http://www.day.com/crx/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
     jcr:primaryType="rep:ACL">
     <allow
         jcr:primaryType="rep:GrantACE"
@@ -19,10 +19,10 @@
         rep:privileges="{Name}[jcr:all]"/>
     <allow3
         jcr:primaryType="rep:GrantACE"
-        rep:principalName="rf-workflow-approver"
-        rep:privileges="{Name}[jcr:versionManagement,jcr:read,crx:replicate,rep:write,jcr:lockManagement]"/>
-    <allow4
-        jcr:primaryType="rep:GrantACE"
         rep:principalName="rf-developers"
         rep:privileges="{Name}[jcr:all]"/>
+    <allow4
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="rf-workflow-approver"
+        rep:privileges="{Name}[jcr:versionManagement,jcr:read,rep:write,jcr:lockManagement]"/>
 </jcr:root>
