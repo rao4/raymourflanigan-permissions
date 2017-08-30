@@ -21,4 +21,8 @@
         jcr:primaryType="rep:GrantACE"
         rep:principalName="rf-workflow-approver"
         rep:privileges="{Name}[jcr:versionManagement,jcr:read,crx:replicate,rep:write,jcr:lockManagement]"/>
+    <allow4
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="rf-developers"
+        rep:privileges="{Name}[jcr:all]"/>
 </jcr:root>

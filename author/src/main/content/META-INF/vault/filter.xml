@@ -7,7 +7,6 @@
 	<filter root="/etc/tags/rep:policy"/>
 	<filter root="/etc/workflow/rep:policy"/>
 
-	<filter root="/home/groups/c/contributor"/>
     <filter root="/home/groups/raymourflanigan-internal"/>
 
 	<filter root="/home/users/system/raymourflanigan-system"/>

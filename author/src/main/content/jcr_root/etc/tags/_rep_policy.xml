@@ -36,5 +36,13 @@
     <allow6
         jcr:primaryType="rep:GrantACE"
         rep:principalName="rf-taggers"
-        rep:privileges="{Name}[jcr:versionManagement,crx:replicate,rep:write,jcr:lockManagement]"/>
+        rep:privileges="{Name}[jcr:all]"/>
+    <allow7
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="rf-developers"
+        rep:privileges="{Name}[jcr:all]"/>
+    <allow8
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="rf-author"
+        rep:privileges="{Name}[jcr:all]"/>
 </jcr:root>

@@ -6,7 +6,7 @@
     jcr:primaryType="rep:Group"
     jcr:uuid="bddfcafc-c39f-3721-bca3-e326c8510631"
     rep:authorizableId="rf-taggers"
-    rep:members="{WeakReference}[bbfb7962-c453-302d-b441-2bac03aee3be,17417f75-a688-344e-89fc-05c41d8bb82f,1935ce1a-f112-3928-bda5-a89131b4b44e,d3c827d3-4db2-30cc-9c41-0ed8117dbaff,5174e3cc-593f-3948-b412-1ebf877b2626]"
+    rep:members="{WeakReference}[bbfb7962-c453-302d-b441-2bac03aee3be,17417f75-a688-344e-89fc-05c41d8bb82f,1935ce1a-f112-3928-bda5-a89131b4b44e]"
     rep:principalName="rf-taggers">
     <profile
         jcr:primaryType="nt:unstructured"
